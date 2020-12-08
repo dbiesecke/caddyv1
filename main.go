@@ -12,7 +12,7 @@ import (
     _ "github.com/jung-kurt/caddy-pubsub"                   //http.pubsub
     _ "github.com/xuqingfeng/caddy-rate-limit"              //http.ratelimit
 //      _ "go.okkur.org/gomods"                                 //http.gomods
-        _ "go.okkur.org/torproxy"                               //http.torproxy  
+//        _ "go.okkur.org/torproxy"                               //http.torproxy  
 //     _ "github.com/pieterlouw/caddy-net"
 //      "github.com/caddyserver/caddy"
 //      "github.com/caddyserver/caddy/caddyhttp/header"
